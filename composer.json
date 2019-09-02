@@ -1,6 +1,6 @@
 {
     "name": "sbiswas/laravel-contact-form",
-    "description": "This package made for practice laravel package development tutorial by bitfumes",
+    "description": "Larave package for a simple contact form that supports both web and API integration",
     "type": "package",
     "license": "MIT",
     "authors": [
