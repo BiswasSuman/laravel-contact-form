@@ -1,0 +1,19 @@
+{
+    "name": "sbiswas/laravel-contact",
+    "description": "This package made for practice laravel package development tutorial by bitfumes",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Suman",
+            "email": "mail.blogger.suman@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "sBiswas\\LaravelContactForm\\" : "src/"
+        }
+    }
+}
